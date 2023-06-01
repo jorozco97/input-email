@@ -1,0 +1,4 @@
+Reto Envio de Emails
+
+- Añadir un campo extra llamado CC; para añadir un destinatario extra.
+- Ese campo no es obligatorio; pero en caso de tener información debes validar que sea un email válido.
